@@ -1,10 +1,13 @@
-Core ML Libraries
-tensorflow
-numpy
+Core ML Libraries - Pinning versions for stability and conflict resolution
+tensorflow==2.16.1
+numpy==1.26.4
 pandas
 
-Image Processing
-opencv-python
+Image Processing (Swapped to headless for cloud compatibility)
+opencv-python-headless
+
+Image handling for PIL import
+Pillow
 
 Utility and Visualization
 tqdm
