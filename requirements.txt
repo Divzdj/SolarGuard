@@ -1,0 +1,15 @@
+Core ML Libraries
+tensorflow
+numpy
+pandas
+
+Image Processing
+opencv-python
+
+Utility and Visualization
+tqdm
+matplotlib
+scikit-learn
+
+Assumed Streamlit deployment framework 
+streamlit
